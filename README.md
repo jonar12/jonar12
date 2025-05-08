@@ -11,5 +11,7 @@ I’m Jonathan A. Arredondo Hernández, a full-stack developer from Mexico. Pass
 
 📫 You can reach me at: jona@constella.tech, or through my LinkedIn: https://www.linkedin.com/in/jonar12/  
 
+📄 You can find my resume here: https://drive.google.com/file/d/1ERA40f3ki3HDnU6pOx9QRvr47kKXbj0_/view?usp=sharing
+
 ⚡ Fun fact: I’ve won over $5,000 USD in hackathon prizes and have shared the podium with teams from China and Russia in global competitions.  
 
